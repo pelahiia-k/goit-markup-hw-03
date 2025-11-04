@@ -264,9 +264,12 @@ p {
 }
 
 .portfolio-content {
-  margin-top: 32px;
-  margin-bottom: 32px;
-  margin-left: 16px;
+  padding-top: 32px;
+  padding-bottom: 32px;
+  padding-left: 16px;
+  border-bottom: 1px solid #e7e9fc;
+  border-left: 1px solid #e7e9fc;
+  border-right: 1px solid #e7e9fc;
 }
 
 .footer-logo .footer-part,
